@@ -1,0 +1,102 @@
+#sortable { 
+	list-style-type: none;
+	padding: 0;
+	margin: 0 auto;
+	width: 70%;
+	
+	
+}
+#sortable li { 
+	margin: 0 8px 8px 8px; 
+	padding: 0.4em; 
+	padding-left: 1.5em; 
+	font-size: 24px; 
+	height: 102px; 
+	width: 620px;
+	background-color: #F2F2F2;
+}
+#sortable li span { 
+	position: absolute; 
+	margin-left: -1.3em; 
+}
+
+.selector-for-some-widget {
+  	box-sizing: content-box;
+}
+
+.wrapper{
+	
+	text-align: center;
+	font-size:24px; 
+	
+}
+.mainNav{
+	color:#00408B;
+	background-color:#4A90E2;
+	height:76px;
+	width:1024px;
+	
+	
+}
+.mainNav table{
+	margin: 0 auto;
+}
+
+.mainNav table tr td{
+	text-align: center;
+	width:220px;
+	height:28;
+	padding:24px;
+	
+}
+.mainNav table tr td:hover{
+	color:#FFFFFF;
+}
+
+.flip{
+	height: 65px;
+	width: 620px;
+	cursor:pointer;
+	margin: 0 10%;
+	/*font-family:'Arial';*/
+
+}
+.panel{
+
+	background:#F2F2F2;
+	height: 443px;
+	width: 620px;
+	
+	*display:none;
+	/*font-family:'Arial';*/
+}
+
+.content{
+	background-color:#E1E1E1;
+	height:1024px;
+	width:1024px;
+}
+.contentAddlistText{
+	color:#C8C8C8;
+	height: 65px;
+	width: 620px;
+	margin: 0 8px 8px 8px; 
+	
+	
+	
+}
+.contentlist{
+	border:solid 1px #c3c3c3;
+	border-style: solid;
+    border-width: 2px;
+    border-color: #C8C8C8;
+	background-color: #FFFFFF;
+	color: #C8C8C8;
+	height: 65px;
+	width: 620px;
+	
+}
+.sortable li{
+	
+	line-height: 28px;
+}
