@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+	font-family: 'Roboto', sans-serif;
+}
+select{
+	height: 40px;
+	width: 220px;
+}
+
+.wrapper{
+	margin: 0 auto;
+}
+.header{
+	color: white;
+	font-size: 36px;
+	height: 92px;
+	width: 1200px;
+	background-color: #7828B4;
+}
+.headerLeft{
+	height: 92px;
+	width: 384px;
+	float: left;
+	
+	
+}
+.headerRight{
+	height: 92px;
+	width: 796px;
+	padding-top: 25px;
+	padding-left: 360px;
+	
+	
+}
+.header img{
+	float: left;
+	height: 35px;
+	width: 157px;
+	padding-left: 78px;
+	padding-top: 33px;
+}
+.search {
+	width: 200px;
+	height: 30px;
+	line-height: 20px;
+	padding-bottom: 33px;
+	border-bottom: 1px #ffffff solid;
+	color: #fff
+	
+  }
+  .search input {
+	border-style: none;
+	background: none;
+	color: #fff;
+	height: 30px;
+	line-height: 30px;
+	outline: none;
+	width:160px;
+	
+  }
+  
+  input::-webkit-input-placeholder { 
+   color:#D8B1DD;
+   
+  }
+  
+  
+
+.mainNav{
+	float: left;	
+	height: 953px;
+	width: 380px;
+	padding-left: 38px;
+
+}
+
+.location{
+	height: 127px;
+	width: 260px;
+	background-color: #EBEBEB;
+	padding-top: 12px;
+	padding-left: 40px;
+	line-height: 35px;
+	
+}
+#theList{
+	height: 40px;
+	width: 220px;
+	font-size: 16px;
+	
+
+}
+.date{
+	height: 187px;
+	width: 260px;
+	font-size: 16px;
+	border-top-style:solid;
+	border-width:1px;
+	border-color:#D7D7D7;
+	background-color: #EBEBEB;
+	padding-left: 40px;
+	line-height: 52px;
+	
+}
+#theText{
+	height: 40px;
+	width: 169px;
+	font-size: 16px;
+}
+input::-webkit-input-placeholder { 
+	color :rgb(191, 156, 218);}
+}
+.categories{
+	
+	height: 225px;
+	width: 260px;
+	border-top-style:solid;
+	border-width:1px;
+	border-color:#D7D7D7;
+	background-color: #EBEBEB;
+	padding-top: 12px;
+	padding-left: 40px;
+	line-height: 25px;
+	
+}
+
+
+.content{
+	
+	height: 953px;
+	width: 1200px;
+	background-color: #F2F2F2;
+	
+}
+
+.contentRight{
+	
+	height: 953px;
+	width: 820px;
+	padding-left: 380px;
+	
+}
+.contentTop{
+	
+	height:119px;
+	width: 820px;
+	padding-top:24px;
+	font-size: 24px;	
+}
+.contentTop p{
+	/*height: 35px;
+	width: 128px;*/
+	color: #9013FE;
+	border-radius: 100px;
+	
+}
+.contentMain{
+	
+	height: 834px;
+	width: 820px;
+	
+	
+	
+	
+	
+}
+.contentMain ul{
+	list-style-type:none;}
+	
+
+.contentImg img{
+
+	float: left;
+	height:220px;
+	width:220px;
+	
+}
+.contentText{
+	float: left;
+	height:220px;
+	width:560px;
+	padding-bottom: 24px;
+	
+}
